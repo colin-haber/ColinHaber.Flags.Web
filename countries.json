@@ -1292,7 +1292,6 @@
 		},
 		"ShortNames": {
 			"EN": [
-				"Ceylon",
 				"Sri Lanka"
 			]
 		}
@@ -1753,10 +1752,12 @@
 			"HO": "Papua Niu Gini",
 			"TPI": "Independen Stet bilong Papua Niugini"
 		},
-		"LocalizedNames": {
-			"EN": "Papua New Guinea"
-		},
-		"ShortNames": {}
+		"LocalizedNames": {},
+		"ShortNames": {
+			"EN": [
+				"Papua New Guinea"
+			]
+		}
 	},
 	"PH": {
 		"OfficialNames": {
