@@ -45,11 +45,7 @@
 			"EN": "Antigua and Barbuda"
 		},
 		"LocalizedNames": {},
-		"ShortNames": {
-			"EN": [
-				"Antigua"
-			]
-		}
+		"ShortNames": {}
 	},
 	"AL": {
 		"OfficialNames": {
@@ -171,8 +167,7 @@
 		},
 		"ShortNames": {
 			"EN": [
-				"Bangladesh",
-				"People's Republic of Bangladesh"
+				"Bangladesh"
 			]
 		}
 	},
@@ -198,11 +193,7 @@
 		"LocalizedNames": {
 			"EN": "Burkina Faso"
 		},
-		"ShortNames": {
-			"EN": [
-				"Upper Volta"
-			]
-		}
+		"ShortNames": {}
 	},
 	"BG": {
 		"OfficialNames": {
@@ -253,8 +244,7 @@
 		},
 		"ShortNames": {
 			"EN": [
-				"Benin",
-				"Dahomey"
+				"Benin"
 			]
 		}
 	},
@@ -304,8 +294,7 @@
 		"LocalizedNames": {},
 		"ShortNames": {
 			"EN": [
-				"Bahamas",
-				"The Bahamas"
+				"Bahamas"
 			]
 		}
 	},
@@ -376,9 +365,7 @@
 				"Congo-Kinshasa",
 				"DR Congo",
 				"DRC",
-				"DROC",
-				"The Congo",
-				"Zaire"
+				"DROC"
 			]
 		}
 	},
@@ -406,6 +393,8 @@
 		"ShortNames": {
 			"EN": [
 				"Congo",
+				"Congo-Brazzaville",
+				"Congo Republic",
 				"West Congo"
 			]
 		}
@@ -436,8 +425,7 @@
 		"ShortNames": {
 			"EN": [
 				"Cote d'Ivoire",
-				"Ivory Coast",
-				"Republic of Cote d'Ivoire"
+				"Ivory Coast"
 			]
 		}
 	},
@@ -476,7 +464,6 @@
 		"ShortNames": {
 			"EN": [
 				"China",
-				"People's Republic of China",
 				"PRC"
 			]
 		}
@@ -556,7 +543,6 @@
 		},
 		"ShortNames": {
 			"EN": [
-				"Bohemia",
 				"Czechia",
 				"Czechland"
 			]
@@ -620,11 +606,7 @@
 		"LocalizedNames": {
 			"EN": "Dominican Republic"
 		},
-		"ShortNames": {
-			"EN": [
-				"Santo Domingo"
-			]
-		}
+		"ShortNames": {}
 	},
 	"DZ": {
 		"OfficialNames": {
@@ -635,8 +617,7 @@
 		},
 		"ShortNames": {
 			"EN": [
-				"Algeria",
-				"People's Democratic Republic of Algeria"
+				"Algeria"
 			]
 		}
 	},
@@ -662,7 +643,6 @@
 		},
 		"ShortNames": {
 			"EN": [
-				"Eesti",
 				"Estonia"
 			]
 		}
@@ -790,6 +770,7 @@
 		"LocalizedNames": {},
 		"ShortNames": {
 			"EN": [
+				"Britain",
 				"GB",
 				"Great Britain",
 				"United Kingdom",
@@ -831,8 +812,7 @@
 		"LocalizedNames": {},
 		"ShortNames": {
 			"EN": [
-				"Gambia",
-				"The Gambia"
+				"Gambia"
 			]
 		}
 	},
@@ -891,10 +871,10 @@
 	},
 	"GW": {
 		"OfficialNames": {
-			"PT": "República da Guiné-Bissau"
+			"PT": "República da Guiné‐Bissau"
 		},
 		"LocalizedNames": {
-			"EN": "Republic of Guinea-Bissau"
+			"EN": "Republic of Guinea‐Bissau"
 		},
 		"ShortNames": {
 			"EN": [
@@ -1009,7 +989,6 @@
 		"LocalizedNames": {},
 		"ShortNames": {
 			"EN": [
-				"Bharat",
 				"India"
 			]
 		}
@@ -1170,7 +1149,9 @@
 		"ShortNames": {
 			"EN": [
 				"Saint Christopher and Nevis",
-				"Saint Kitts and Nevis"
+				"Saint Kitts and Nevis",
+				"St. Christopher and Nevis",
+				"St. Kitts and Nevis"
 			]
 		}
 	},
@@ -1183,7 +1164,6 @@
 		},
 		"ShortNames": {
 			"EN": [
-				"Democratic People's Republic of Korea",
 				"DPRK",
 				"North Korea"
 			]
@@ -1240,7 +1220,6 @@
 		},
 		"ShortNames": {
 			"EN": [
-				"Lao People's Democratic Republic",
 				"Laos"
 			]
 		}
@@ -1335,7 +1314,7 @@
 	"LU": {
 		"OfficialNames": {
 			"DE": "Großherzogtum Luxemburg",
-			"FR": "Grand-Duché de Luxembourg",
+			"FR": "Grand‐Duché de Luxembourg",
 			"LB": "Groussherzogtum Lëtzebuerg"
 		},
 		"LocalizedNames": {
@@ -1540,8 +1519,7 @@
 		},
 		"ShortNames": {
 			"EN": [
-				"Maldives",
-				"The Maldives"
+				"Maldives"
 			]
 		}
 	},
@@ -1649,8 +1627,7 @@
 		},
 		"ShortNames": {
 			"EN": [
-				"Netherlands",
-				"The Netherlands"
+				"Netherlands"
 			]
 		}
 	},
@@ -1767,8 +1744,7 @@
 		"LocalizedNames": {},
 		"ShortNames": {
 			"EN": [
-				"Philippines",
-				"The Philippines"
+				"Philippines"
 			]
 		}
 	},
@@ -1929,7 +1905,7 @@
 	},
 	"SB": {
 		"OfficialNames": {
-			"EN": "Solomon Islands "
+			"EN": "Solomon Islands"
 		},
 		"LocalizedNames": {},
 		"ShortNames": {}
@@ -1943,8 +1919,7 @@
 		"LocalizedNames": {},
 		"ShortNames": {
 			"EN": [
-				"Seychelles",
-				"The Seychelles"
+				"Seychelles"
 			]
 		}
 	},
@@ -2309,11 +2284,7 @@
 		"LocalizedNames": {
 			"EN": "Ukraine"
 		},
-		"ShortNames": {
-			"EN": [
-				"The Ukraine"
-			]
-		}
+		"ShortNames": {}
 	},
 	"UG": {
 		"OfficialNames": {
@@ -2467,10 +2438,10 @@
 	},
 	"ZA": {
 		"OfficialNames": {
-			"AF": "Republiek van Suid-Afrika ",
+			"AF": "Republiek van Suid‐Afrika ",
 			"EN": "Republic of South Africa",
 			"NR": "iRiphabliki yeSewula Afrika",
-			"NSO": "Rephaboliki ya Afrika-Borwa",
+			"NSO": "Rephaboliki ya Afrika‐Borwa",
 			"ST": "Rephaboliki ya Afrika Borwa",
 			"SS": "iRiphabhulikhi yeNingizimu Afrika",
 			"TN": "Rephaboliki ya Aforika Borwa",

@@ -1,9 +1,11 @@
 document.addEventListener("DOMContentLoaded", evt => {
 	let deck = document.querySelector(".card-container");
-	
 	let correct = document.querySelector(".game-correct");
 	let skipped = document.querySelector(".game-skipped");
 	let unanswered = document.querySelector(".game-unanswered");
+	let normalize = function (name) {
+		return name.toUpperCase().replace(/[\-\u2010]/, " ").replace(/[\'\.\u8216\u8217]/, "");
+	}
 	let updateTotals = function (dCorrect, dSkipped, dUnanswered) {
 		[
 			{
@@ -130,9 +132,11 @@ document.addEventListener("DOMContentLoaded", evt => {
 				}
 				answer.addEventListener("input", evt => {
 					answers.forEach(answer => {
-						if (evt.target.value.toUpperCase() === answer.toUpperCase()) {
+						if (normalize(evt.target.value) === normalize(answer)) {
+							console.log(normalize(evt.target.value) + " : " + normalize(answer));
 							root.classList.add("correct");
 							text.classList.remove("hidden");
+							evt.target.value = answer;
 							evt.target.disabled = true;
 							skip.disabled = true;
 							updateTotals(1, 0, -1);
