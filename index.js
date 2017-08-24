@@ -133,7 +133,6 @@ document.addEventListener("DOMContentLoaded", evt => {
 				answer.addEventListener("input", evt => {
 					answers.forEach(answer => {
 						if (normalize(evt.target.value) === normalize(answer)) {
-							console.log(normalize(evt.target.value) + " : " + normalize(answer));
 							root.classList.add("correct");
 							text.classList.remove("hidden");
 							evt.target.value = answer;
