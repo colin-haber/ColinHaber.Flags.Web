@@ -1,0 +1,2510 @@
+{
+	"AD": {
+		"OfficialNames": {
+			"CA": "Principat d’Andorra"
+		},
+		"LocalizedNames": {
+			"EN": "Principality of Andorra"
+		},
+		"ShortNames": {
+			"EN": [
+				"Andorra"
+			]
+		}
+	},
+	"AE": {
+		"OfficialNames": {
+			"AR": "الإمارات العربية المتحدة"
+		},
+		"LocalizedNames": {
+			"EN": "United Arab Emirates"
+		},
+		"ShortNames": {
+			"EN": [
+				"Emirates",
+				"UAE"
+			]
+		}
+	},
+	"AF": {
+		"OfficialNames": {
+			"FA": "جمهوری اسلامی افغانستان",
+			"PS": "د افغانستان اسلامي جمهوریت"
+		},
+		"LocalizedNames": {
+			"EN": "Islamic Republic of Afghanistan"
+		},
+		"ShortNames": {
+			"EN": [
+				"Afghanistan"
+			]
+		}
+	},
+	"AG": {
+		"OfficialNames": {
+			"EN": "Antigua and Barbuda"
+		},
+		"LocalizedNames": {},
+		"ShortNames": {
+			"EN": [
+				"Antigua"
+			]
+		}
+	},
+	"AL": {
+		"OfficialNames": {
+			"SQ": "Republika e Shqipërisë"
+		},
+		"LocalizedNames": {
+			"EN": "Republic of Albania"
+		},
+		"ShortNames": {
+			"EN": [
+				"Albania"
+			]
+		}
+	},
+	"AM": {
+		"OfficialNames": {
+			"HY": "Հայաստանի Հանրապետություն"
+		},
+		"LocalizedNames": {
+			"EN": "Republic of Armenia"
+		},
+		"ShortNames": {
+			"EN": [
+				"Armenia"
+			]
+		}
+	},
+	"AO": {
+		"OfficialNames": {
+			"PT": "República de Angola"
+		},
+		"LocalizedNames": {
+			"EN": "Republic of Angola"
+		},
+		"ShortNames": {
+			"EN": [
+				"Angola"
+			]
+		}
+	},
+	"AR": {
+		"OfficialNames": {
+			"ES": "República Argentina"
+		},
+		"LocalizedNames": {
+			"EN": "Argentine Republic"
+		},
+		"ShortNames": {
+			"EN": [
+				"Argentina"
+			]
+		}
+	},
+	"AT": {
+		"OfficialNames": {
+			"DE": "Republik Österreich"
+		},
+		"LocalizedNames": {
+			"EN": "Republic of Austria"
+		},
+		"ShortNames": {
+			"EN": [
+				"Austria"
+			]
+		}
+	},
+	"AU": {
+		"OfficialNames": {
+			"EN": "Commonwealth of Australia"
+		},
+		"LocalizedNames": {},
+		"ShortNames": {
+			"EN": [
+				"Australia"
+			]
+		}
+	},
+	"AZ": {
+		"OfficialNames": {
+			"AZ": "Azərbaycan Respublikası"
+		},
+		"LocalizedNames": {
+			"EN": "Republic of Azerbaijan"
+		},
+		"ShortNames": {
+			"EN": [
+				"Azerbaijan"
+			]
+		}
+	},
+	"BA": {
+		"OfficialNames": {
+			"BS": "Bosna i Hercegovina",
+			"HR": "Bosna i Hercegovina",
+			"SR": "Боснa и Херцеговина"
+		},
+		"LocalizedNames": {
+			"EN": "Bosnia and Herzegovina"
+		},
+		"ShortNames": {
+			"EN": [
+				"Bosnia"
+			]
+		}
+	},
+	"BB": {
+		"OfficialNames": {
+			"EN": "Barbados"
+		},
+		"LocalizedNames": {},
+		"ShortNames": {}
+	},
+	"BD": {
+		"OfficialNames": {
+			"BN": "গণপ্রজাতন্ত্রী বাংলাদেশ"
+		},
+		"LocalizedNames": {
+			"EN": "People’s Republic of Bangladesh"
+		},
+		"ShortNames": {
+			"EN": [
+				"Bangladesh",
+				"People's Republic of Bangladesh"
+			]
+		}
+	},
+	"BE": {
+		"OfficialNames": {
+			"DE": "Königreich Belgien",
+			"FR": "Royaume de Belgique",
+			"NL": "Koninkrijk België"
+		},
+		"LocalizedNames": {
+			"EN": "Kingdom of Belgium"
+		},
+		"ShortNames": {
+			"EN": [
+				"Belgium"
+			]
+		}
+	},
+	"BF": {
+		"OfficialNames": {
+			"FR": "Burkina Faso"
+		},
+		"LocalizedNames": {
+			"EN": "Burkina Faso"
+		},
+		"ShortNames": {
+			"EN": [
+				"Upper Volta"
+			]
+		}
+	},
+	"BG": {
+		"OfficialNames": {
+			"BG": "Република България"
+		},
+		"LocalizedNames": {
+			"EN": "Republic of Bulgaria"
+		},
+		"ShortNames": {
+			"EN": [
+				"Bulgaria"
+			]
+		}
+	},
+	"BH": {
+		"OfficialNames": {
+			"AR": "مملكة البحرين"
+		},
+		"LocalizedNames": {
+			"EN": "Kingdom of Bahrain"
+		},
+		"ShortNames": {
+			"EN": [
+				"Bahrain"
+			]
+		}
+	},
+	"BI": {
+		"OfficialNames": {
+			"FR": "République du Burundi",
+			"RN": "Republika y'Uburundi"
+		},
+		"LocalizedNames": {
+			"EN": "Republic of Burundi"
+		},
+		"ShortNames": {
+			"EN": [
+				"Burundi"
+			]
+		}
+	},
+	"BJ": {
+		"OfficialNames": {
+			"FR": "République du Bénin"
+		},
+		"LocalizedNames": {
+			"EN": "Republic of Benin"
+		},
+		"ShortNames": {
+			"EN": [
+				"Benin",
+				"Dahomey"
+			]
+		}
+	},
+	"BN": {
+		"OfficialNames": {
+			"MS": "Negara Brunei Darussalam"
+		},
+		"LocalizedNames": {
+			"EN": "Nation of Brunei, the Abode of Peace"
+		},
+		"ShortNames": {
+			"EN": [
+				"Brunei"
+			]
+		}
+	},
+	"BO": {
+		"OfficialNames": {
+			"ES": "Estado Plurinacional de Bolivia"
+		},
+		"LocalizedNames": {
+			"EN": "Plurinational State of Bolivia"
+		},
+		"ShortNames": {
+			"EN": [
+				"Bolivia"
+			]
+		}
+	},
+	"BR": {
+		"OfficialNames": {
+			"PT": "República Federativa do Brasil"
+		},
+		"LocalizedNames": {
+			"EN": "Federative Republic of Brazil"
+		},
+		"ShortNames": {
+			"EN": [
+				"Brazil"
+			]
+		}
+	},
+	"BS": {
+		"OfficialNames": {
+			"EN": "Commonwealth of The Bahamas"
+		},
+		"LocalizedNames": {},
+		"ShortNames": {
+			"EN": [
+				"Bahamas",
+				"The Bahamas"
+			]
+		}
+	},
+	"BT": {
+		"OfficialNames": {
+			"DZ": "འབྲུག་གྷལ་ཁབ"
+		},
+		"LocalizedNames": {
+			"EN": "Kingdom of Bhutan"
+		},
+		"ShortNames": {
+			"EN": [
+				"Bhutan"
+			]
+		}
+	},
+	"BW": {
+		"OfficialNames": {
+			"EN": "Republic of Botswana"
+		},
+		"LocalizedNames": {},
+		"ShortNames": {
+			"EN": [
+				"Botswana"
+			]
+		}
+	},
+	"BY": {
+		"OfficialNames": {
+			"BE": "Рэспубліка Беларусь",
+			"RU": "Республика Беларусь"
+		},
+		"LocalizedNames": {
+			"EN": "Republic of Belarus"
+		},
+		"ShortNames": {
+			"EN": [
+				"Belarus",
+				"Belorussia",
+				"Byelorussia"
+			]
+		}
+	},
+	"BZ": {
+		"OfficialNames": {
+			"EN": "Belize"
+		},
+		"LocalizedNames": {},
+		"ShortNames": {}
+	},
+	"CA": {
+		"OfficialNames": {
+			"EN": "Canada",
+			"FR": "Canada"
+		},
+		"LocalizedNames": {},
+		"ShortNames": {}
+	},
+	"CD": {
+		"OfficialNames": {
+			"FR": "République démocratique du Congo"
+		},
+		"LocalizedNames": {
+			"EN": "Democratic Republic of the Congo"
+		},
+		"ShortNames": {
+			"EN": [
+				"Congo-Kinshasa",
+				"DR Congo",
+				"DRC",
+				"DROC",
+				"The Congo",
+				"Zaire"
+			]
+		}
+	},
+	"CF": {
+		"OfficialNames": {
+			"FR": "République Centrafricaine",
+			"SG": "Ködörösêse tî Bêafrîka"
+		},
+		"LocalizedNames": {
+			"EN": "Central African Republic"
+		},
+		"ShortNames": {
+			"EN": [
+				"CAR"
+			]
+		}
+	},
+	"CG": {
+		"OfficialNames": {
+			"FR": "République du Congo"
+		},
+		"LocalizedNames": {
+			"EN": "Republic of the Congo"
+		},
+		"ShortNames": {
+			"EN": [
+				"Congo",
+				"West Congo"
+			]
+		}
+	},
+	"CH": {
+		"OfficialNames": {
+			"DE": "Schweizerische Eidgenossenschaft",
+			"FR": "Confédération Suisse",
+			"IT": "Confederazione Svizzera",
+			"RM": "Confederaziun Svizra"
+		},
+		"LocalizedNames": {
+			"EN": "Swiss Confederation"
+		},
+		"ShortNames": {
+			"EN": [
+				"Switzerland"
+			]
+		}
+	},
+	"CI": {
+		"OfficialNames": {
+			"FR": "République de Côte d’Ivoire"
+		},
+		"LocalizedNames": {
+			"EN": "Republic of Côte d’Ivoire"
+		},
+		"ShortNames": {
+			"EN": [
+				"Cote d'Ivoire",
+				"Ivory Coast",
+				"Republic of Cote d'Ivoire"
+			]
+		}
+	},
+	"CL": {
+		"OfficialNames": {
+			"ES": "República de Chile"
+		},
+		"LocalizedNames": {
+			"EN": "Republic of Chile"
+		},
+		"ShortNames": {
+			"EN": [
+				"Chile"
+			]
+		}
+	},
+	"CM": {
+		"OfficialNames": {
+			"EN": "Republic of Cameroon",
+			"FR": "République du Cameroun"
+		},
+		"LocalizedNames": {},
+		"ShortNames": {
+			"EN": [
+				"Cameroon"
+			]
+		}
+	},
+	"CN": {
+		"OfficialNames": {
+			"ZH": "中华人民共和国"
+		},
+		"LocalizedNames": {
+			"EN": "People’s Republic of China"
+		},
+		"ShortNames": {
+			"EN": [
+				"China",
+				"People's Republic of China",
+				"PRC"
+			]
+		}
+	},
+	"CO": {
+		"OfficialNames": {
+			"ES": "República de Colombia"
+		},
+		"LocalizedNames": {
+			"EN": "Republic of Colombia"
+		},
+		"ShortNames": {
+			"EN": [
+				"Colombia"
+			]
+		}
+	},
+	"CR": {
+		"OfficialNames": {
+			"ES": "República de Costa Rica"
+		},
+		"LocalizedNames": {
+			"EN": "Republic of Costa Rica"
+		},
+		"ShortNames": {
+			"EN": [
+				"Costa Rica"
+			]
+		}
+	},
+	"CU": {
+		"OfficialNames": {
+			"ES": "República de Cuba"
+		},
+		"LocalizedNames": {
+			"EN": "Republic of Cuba"
+		},
+		"ShortNames": {
+			"EN": [
+				"Cuba"
+			]
+		}
+	},
+	"CV": {
+		"OfficialNames": {
+			"PT": "República de Cabo Verde"
+		},
+		"LocalizedNames": {
+			"EN": "Republic of Cape Verde"
+		},
+		"ShortNames": {
+			"EN": [
+				"Cape Verde"
+			]
+		}
+	},
+	"CY": {
+		"OfficialNames": {
+			"EL": "Κυπριακή Δημοκρατία",
+			"TR": "Kıbrıs Cumhuriyeti"
+		},
+		"LocalizedNames": {
+			"EN": "Republic of Cyprus"
+		},
+		"ShortNames": {
+			"EN": [
+				"Cyprus"
+			]
+		}
+	},
+	"CZ": {
+		"OfficialNames": {
+			"CZ": "Česká Republika"
+		},
+		"LocalizedNames": {
+			"EN": "Czech Republic"
+		},
+		"ShortNames": {
+			"EN": [
+				"Bohemia",
+				"Czechia",
+				"Czechland"
+			]
+		}
+	},
+	"DE": {
+		"OfficialNames": {
+			"DE": "Bundesrepublik Deutschland"
+		},
+		"LocalizedNames": {
+			"EN": "Federal Republic of Germany"
+		},
+		"ShortNames": {
+			"EN": [
+				"Germany"
+			]
+		}
+	},
+	"DJ": {
+		"OfficialNames": {
+			"AR": "جمهورية جيبوتي",
+			"FR": "République de Djibouti"
+		},
+		"LocalizedNames": {
+			"EN": "Republic of Djibouti"
+		},
+		"ShortNames": {
+			"EN": [
+				"Djibouti"
+			]
+		}
+	},
+	"DK": {
+		"OfficialNames": {
+			"DA": "Kongeriget Danmark"
+		},
+		"LocalizedNames": {
+			"EN": "Kingdom of Denmark"
+		},
+		"ShortNames": {
+			"EN": [
+				"Denmark"
+			]
+		}
+	},
+	"DM": {
+		"OfficialNames": {
+			"EN": "Commonwealth of Dominica"
+		},
+		"LocalizedNames": {},
+		"ShortNames": {
+			"EN": [
+				"Dominica"
+			]
+		}
+	},
+	"DO": {
+		"OfficialNames": {
+			"ES": "República Dominicana"
+		},
+		"LocalizedNames": {
+			"EN": "Dominican Republic"
+		},
+		"ShortNames": {
+			"EN": [
+				"Santo Domingo"
+			]
+		}
+	},
+	"DZ": {
+		"OfficialNames": {
+			"AR": "الجمهورية الجزائرية الديمقراطية الشعبية"
+		},
+		"LocalizedNames": {
+			"EN": "People’s Democratic Republic of Algeria"
+		},
+		"ShortNames": {
+			"EN": [
+				"Algeria",
+				"People's Democratic Republic of Algeria"
+			]
+		}
+	},
+	"EC": {
+		"OfficialNames": {
+			"ES": "República del Ecuador"
+		},
+		"LocalizedNames": {
+			"EN": "Republic of Ecuador"
+		},
+		"ShortNames": {
+			"EN": [
+				"Ecuador"
+			]
+		}
+	},
+	"EE": {
+		"OfficialNames": {
+			"ET": "Eesti Vabariik"
+		},
+		"LocalizedNames": {
+			"EN": "Republic of Estonia"
+		},
+		"ShortNames": {
+			"EN": [
+				"Eesti",
+				"Estonia"
+			]
+		}
+	},
+	"EG": {
+		"OfficialNames": {
+			"AR": "جمهورية مصر العربية"
+		},
+		"LocalizedNames": {
+			"EN": "Arab Republic of Egypt"
+		},
+		"ShortNames": {
+			"EN": [
+				"Egypt"
+			]
+		}
+	},
+	"ER": {
+		"OfficialNames": {
+			"AR": "دولة إرتريا",
+			"TI": "ሃገረ ኤርትራ"
+		},
+		"LocalizedNames": {
+			"EN": "State of Eritrea"
+		},
+		"ShortNames": {
+			"EN": [
+				"Eritrea"
+			]
+		}
+	},
+	"ES": {
+		"OfficialNames": {
+			"ES": "Reino de España"
+		},
+		"LocalizedNames": {
+			"EN": "Kingdom of Spain"
+		},
+		"ShortNames": {
+			"EN": [
+				"Spain"
+			]
+		}
+	},
+	"ET": {
+		"OfficialNames": {
+			"AM": "የኢትዮጵያ ፈደራላዊ ዲሞክራሲያዊ ሪፐብሊክ"
+		},
+		"LocalizedNames": {
+			"EN": "Federal Democratic Republic of Ethiopia"
+		},
+		"ShortNames": {
+			"EN": [
+				"Ethiopia"
+			]
+		}
+	},
+	"FI": {
+		"OfficialNames": {
+			"FI": "Suomen Tasavalta",
+			"SV": "Republiken Finland"
+		},
+		"LocalizedNames": {
+			"EN": "Republic of Finland"
+		},
+		"ShortNames": {
+			"EN": [
+				"Finland"
+			]
+		}
+	},
+	"FJ": {
+		"OfficialNames": {
+			"EN": "Republic of Fiji",
+			"FJ": "Matanitu ko Viti"
+		},
+		"LocalizedNames": {},
+		"ShortNames": {
+			"EN": [
+				"Fiji"
+			]
+		}
+	},
+	"FM": {
+		"OfficialNames": {
+			"EN": "Federated States of Micronesia"
+		},
+		"LocalizedNames": {},
+		"ShortNames": {
+			"EN": [
+				"Micronesia"
+			]
+		}
+	},
+	"FR": {
+		"OfficialNames": {
+			"FR": "République Française"
+		},
+		"LocalizedNames": {
+			"EN": "French Republic"
+		},
+		"ShortNames": {
+			"EN": [
+				"France"
+			]
+		}
+	},
+	"GA": {
+		"OfficialNames": {
+			"FR": "République Gabonaise"
+		},
+		"LocalizedNames": {
+			"EN": "Gabonese Republic"
+		},
+		"ShortNames": {
+			"EN": [
+				"Gabon"
+			]
+		}
+	},
+	"GB": {
+		"OfficialNames": {
+			"EN": "United Kingdom of Great Britain and Northern Ireland"
+		},
+		"LocalizedNames": {},
+		"ShortNames": {
+			"EN": [
+				"GB",
+				"Great Britain",
+				"United Kingdom",
+				"UK"
+			]
+		}
+	},
+	"GD": {
+		"OfficialNames": {
+			"EN": "Grenada"
+		},
+		"LocalizedNames": {},
+		"ShortNames": {}
+	},
+	"GE": {
+		"OfficialNames": {
+			"KA": "საქართველო"
+		},
+		"LocalizedNames": {
+			"EN": "Georgia"
+		},
+		"ShortNames": {}
+	},
+	"GH": {
+		"OfficialNames": {
+			"EN": "Republic of Ghana"
+		},
+		"LocalizedNames": {},
+		"ShortNames": {
+			"EN": [
+				"Ghana"
+			]
+		}
+	},
+	"GM": {
+		"OfficialNames": {
+			"EN": "Republic of The Gambia"
+		},
+		"LocalizedNames": {},
+		"ShortNames": {
+			"EN": [
+				"Gambia",
+				"The Gambia"
+			]
+		}
+	},
+	"GN": {
+		"OfficialNames": {
+			"FR": "République de Guinée"
+		},
+		"LocalizedNames": {
+			"EN": "Republic of Guinea"
+		},
+		"ShortNames": {
+			"EN": [
+				"Guinea"
+			]
+		}
+	},
+	"GQ": {
+		"OfficialNames": {
+			"ES": "República de Guinea Ecuatorial",
+			"FR": "République de Guinée équatoriale"
+		},
+		"LocalizedNames": {
+			"EN": "Republic of Equatorial Guinea"
+		},
+		"ShortNames": {
+			"EN": [
+				"Equatorial Guinea"
+			]
+		}
+	},
+	"GR": {
+		"OfficialNames": {
+			"EL": "Ελληνική Δημοκρατία"
+		},
+		"LocalizedNames": {
+			"EN": "Hellenic Republic"
+		},
+		"ShortNames": {
+			"EN": [
+				"Greece"
+			]
+		}
+	},
+	"GT": {
+		"OfficialNames": {
+			"ES": "República de Guatemala"
+		},
+		"LocalizedNames": {
+			"EN": "Republic of Guatemala"
+		},
+		"ShortNames": {
+			"EN": [
+				"Guatemala"
+			]
+		}
+	},
+	"GW": {
+		"OfficialNames": {
+			"PT": "República da Guiné-Bissau"
+		},
+		"LocalizedNames": {
+			"EN": "Republic of Guinea-Bissau"
+		},
+		"ShortNames": {
+			"EN": [
+				"Guinea-Bissau"
+			]
+		}
+	},
+	"GY": {
+		"OfficialNames": {
+			"EN": "Co‐operative Republic of Guyana"
+		},
+		"LocalizedNames": {},
+		"ShortNames": {
+			"EN": [
+				"Guyana"
+			]
+		}
+	},
+	"HN": {
+		"OfficialNames": {
+			"ES": "República de Honduras"
+		},
+		"LocalizedNames": {
+			"EN": "Republic of Honduras"
+		},
+		"ShortNames": {
+			"EN": [
+				"Honduras"
+			]
+		}
+	},
+	"HR": {
+		"OfficialNames": {
+			"HR": "Republika Hrvatska"
+		},
+		"LocalizedNames": {
+			"EN": "Republic of Croatia"
+		},
+		"ShortNames": {
+			"EN": [
+				"Croatia"
+			]
+		}
+	},
+	"HT": {
+		"OfficialNames": {
+			"FR": "République d’Haïti",
+			"HT": "Repiblik d’Ayiti"
+		},
+		"LocalizedNames": {
+			"EN": "Republic of Haiti"
+		},
+		"ShortNames": {
+			"EN": [
+				"Haiti"
+			]
+		}
+	},
+	"HU": {
+		"OfficialNames": {
+			"HU": "Magyar Köztársaság"
+		},
+		"LocalizedNames": {
+			"EN": "Republic of Hungary"
+		},
+		"ShortNames": {
+			"EN": [
+				"Hungary"
+			]
+		}
+	},
+	"ID": {
+		"OfficialNames": {
+			"ID": "Republik Indonesia"
+		},
+		"LocalizedNames": {
+			"EN": "Republic of Indonesia"
+		},
+		"ShortNames": {
+			"EN": [
+				"Indonesia"
+			]
+		}
+	},
+	"IE": {
+		"OfficialNames": {
+			"EN": "Ireland",
+			"GA": "Éire"
+		},
+		"LocalizedNames": {},
+		"ShortNames": {}
+	},
+	"IL": {
+		"OfficialNames": {
+			"AR": "دَوْلَة إِسْرَائِيل",
+			"HE": "מְדִינַת יִשְׂרָאֵל"
+		},
+		"LocalizedNames": {
+			"EN": "State of Israel"
+		},
+		"ShortNames": {
+			"EN": [
+				"Israel"
+			]
+		}
+	},
+	"IN": {
+		"OfficialNames": {
+			"EN": "Republic of India",
+			"HI": "भारत गणराज्य"
+		},
+		"LocalizedNames": {},
+		"ShortNames": {
+			"EN": [
+				"Bharat",
+				"India"
+			]
+		}
+	},
+	"IQ": {
+		"OfficialNames": {
+			"AR": "جمهورية العـراق",
+			"KU": "كۆماريى عێراق"
+		},
+		"LocalizedNames": {
+			"EN": "Republic of Iraq"
+		},
+		"ShortNames": {
+			"EN": [
+				"Iraq"
+			]
+		}
+	},
+	"IR": {
+		"OfficialNames": {
+			"FA": "جمهوری اسلامی ایران"
+		},
+		"LocalizedNames": {
+			"EN": "Islamic Republic of Iran"
+		},
+		"ShortNames": {
+			"EN": [
+				"Iran"
+			]
+		}
+	},
+	"IS": {
+		"OfficialNames": {
+			"IS": "Lýðveldið Ísland"
+		},
+		"LocalizedNames": {
+			"EN": "Republic of Iceland"
+		},
+		"ShortNames": {
+			"EN": [
+				"Iceland"
+			]
+		}
+	},
+	"IT": {
+		"OfficialNames": {
+			"IT": "Repubblica Italiana"
+		},
+		"LocalizedNames": {
+			"EN": "Republic of Italy"
+		},
+		"ShortNames": {
+			"EN": [
+				"Italy"
+			]
+		}
+	},
+	"JM": {
+		"OfficialNames": {
+			"EN": "Jamaica"
+		},
+		"LocalizedNames": {},
+		"ShortNames": {}
+	},
+	"JO": {
+		"OfficialNames": {
+			"AR": "المملكة الأردنية الهاشمية"
+		},
+		"LocalizedNames": {
+			"EN": "Hashemite Kingdom of Jordan"
+		},
+		"ShortNames": {
+			"EN": [
+				"Jordan"
+			]
+		}
+	},
+	"JP": {
+		"OfficialNames": {
+			"JA": "日本国"
+		},
+		"LocalizedNames": {
+			"EN": "Japan"
+		},
+		"ShortNames": {}
+	},
+	"KE": {
+		"OfficialNames": {
+			"EN": "Republic of Kenya",
+			"SW": "Jamhuri ya Kenya"
+		},
+		"LocalizedNames": {},
+		"ShortNames": {
+			"EN": [
+				"Kenya"
+			]
+		}
+	},
+	"KG": {
+		"OfficialNames": {
+			"KY": "Кыргыз Республикасы",
+			"RU": "Кыргызская Республика"
+		},
+		"LocalizedNames": {
+			"EN": "Kyrgyz Republic"
+		},
+		"ShortNames": {
+			"EN": [
+				"Kyrgyzstan"
+			]
+		}
+	},
+	"KH": {
+		"OfficialNames": {
+			"KM": "ព្រះរាជាណាចក្រកម្ពុជា"
+		},
+		"LocalizedNames": {
+			"EN": "Kingdom of Cambodia"
+		},
+		"ShortNames": {
+			"EN": [
+				"Cambodia"
+			]
+		}
+	},
+	"KI": {
+		"OfficialNames": {
+			"EN": "Republic of Kiribati",
+			"GIL": "Ribaberiki Kiribati"
+		},
+		"LocalizedNames": {},
+		"ShortNames": {
+			"EN": [
+				"Kiribati"
+			]
+		}
+	},
+	"KM": {
+		"OfficialNames": {
+			"AR": "الاتحاد القمري",
+			"FR": "Union des Comores",
+			"SW": "Udzima wa Komori"
+		},
+		"LocalizedNames": {
+			"EN": "Union of the Comoros"
+		},
+		"ShortNames": {
+			"EN": [
+				"Comoros"
+			]
+		}
+	},
+	"KN": {
+		"OfficialNames": {
+			"EN": "Federation of Saint Kitts and Nevis"
+		},
+		"LocalizedNames": {},
+		"ShortNames": {
+			"EN": [
+				"Saint Christopher and Nevis",
+				"Saint Kitts and Nevis"
+			]
+		}
+	},
+	"KP": {
+		"OfficialNames": {
+			"KO": "조선 민주주의 인민 공화국"
+		},
+		"LocalizedNames": {
+			"EN": "Democratic People’s Republic of Korea"
+		},
+		"ShortNames": {
+			"EN": [
+				"Democratic People's Republic of Korea",
+				"DPRK",
+				"North Korea"
+			]
+		}
+	},
+	"KR": {
+		"OfficialNames": {
+			"KO": "대한 민국"
+		},
+		"LocalizedNames": {
+			"EN": "Republic of Korea"
+		},
+		"ShortNames": {
+			"EN": [
+				"Korea",
+				"ROK",
+				"South Korea"
+			]
+		}
+	},
+	"KW": {
+		"OfficialNames": {
+			"AR": "دولة الكويت"
+		},
+		"LocalizedNames": {
+			"EN": "State of Kuwait"
+		},
+		"ShortNames": {
+			"EN": [
+				"Kuwait"
+			]
+		}
+	},
+	"KZ": {
+		"OfficialNames": {
+			"KK": "Қазақстан Республикасы",
+			"RU": "Республика Казахстан"
+		},
+		"LocalizedNames": {
+			"EN": "Republic of Kazakhstan"
+		},
+		"ShortNames": {
+			"EN": [
+				"Kazakhstan"
+			]
+		}
+	},
+	"LA": {
+		"OfficialNames": {
+			"LO": "ສາທາລະນະລັດປະຊາທິປະໄຕປະຊາຊົນລາວ"
+		},
+		"LocalizedNames": {
+			"EN": "Lao People’s Democratic Republic"
+		},
+		"ShortNames": {
+			"EN": [
+				"Lao People's Democratic Republic",
+				"Laos"
+			]
+		}
+	},
+	"LB": {
+		"OfficialNames": {
+			"AR": "الجمهورية اللبنانية"
+		},
+		"LocalizedNames": {
+			"EN": "Lebanese Republic"
+		},
+		"ShortNames": {
+			"EN": [
+				"Lebanon"
+			]
+		}
+	},
+	"LC": {
+		"OfficialNames": {
+			"EN": "Saint Lucia"
+		},
+		"LocalizedNames": {},
+		"ShortNames": {
+			"EN": [
+				"St. Lucia"
+			]
+		}
+	},
+	"LI": {
+		"OfficialNames": {
+			"DE": "Fürstentum Liechtenstein"
+		},
+		"LocalizedNames": {
+			"EN": "Principality of Liechtenstein"
+		},
+		"ShortNames": {
+			"EN": [
+				"Liechtenstein"
+			]
+		}
+	},
+	"LK": {
+		"OfficialNames": {
+			"SI": "ශ්‍රී ලංකා ප්‍රජාතාන්ත්‍රික සමාජවාදී ජනරජය",
+			"TA": "இலங்கை ஜனநாயக சோசலிச குடியரசு"
+		},
+		"LocalizedNames": {
+			"EN": "Democratic Socialist Republic of Sri Lanka"
+		},
+		"ShortNames": {
+			"EN": [
+				"Ceylon",
+				"Sri Lanka"
+			]
+		}
+	},
+	"LR": {
+		"OfficialNames": {
+			"EN": "Republic of Liberia"
+		},
+		"LocalizedNames": {},
+		"ShortNames": {
+			"EN": [
+				"Liberia"
+			]
+		}
+	},
+	"LS": {
+		"OfficialNames": {
+			"EN": "Kingdom of Lesotho",
+			"ST": "'Muso oa Lesotho"
+		},
+		"LocalizedNames": {},
+		"ShortNames": {
+			"EN": [
+				"Lesotho"
+			]
+		}
+	},
+	"LT": {
+		"OfficialNames": {
+			"LT": "Lietuvos Respublika"
+		},
+		"LocalizedNames": {
+			"EN": "Republic of Lithuania"
+		},
+		"ShortNames": {
+			"EN": [
+				"Lithuania"
+			]
+		}
+	},
+	"LU": {
+		"OfficialNames": {
+			"DE": "Großherzogtum Luxemburg",
+			"FR": "Grand-Duché de Luxembourg",
+			"LB": "Groussherzogtum Lëtzebuerg"
+		},
+		"LocalizedNames": {
+			"EN": "Grand Duchy of Luxembourg"
+		},
+		"ShortNames": {
+			"EN": [
+				"Luxembourg"
+			]
+		}
+	},
+	"LV": {
+		"OfficialNames": {
+			"LV": "Latvijas Republika"
+		},
+		"LocalizedNames": {
+			"EN": "Republic of Latvia"
+		},
+		"ShortNames": {
+			"EN": [
+				"Latvia"
+			]
+		}
+	},
+	"LY": {
+		"OfficialNames": {
+			"AR": "ليبيا"
+		},
+		"LocalizedNames": {
+			"EN": "Libya"
+		},
+		"ShortNames": {}
+	},
+	"MA": {
+		"OfficialNames": {
+			"AR": "المملكة المغربية",
+			"BER": "ⵜⴰⴳⵍⴷⵉⵜ ⵏ ⵍⵎⵖⵔⵉⴱ"
+		},
+		"LocalizedNames": {
+			"EN": "Kingdom of Morocco"
+		},
+		"ShortNames": {
+			"EN": [
+				"Morocco"
+			]
+		}
+	},
+	"MC": {
+		"OfficialNames": {
+			"FR": "Principauté de Monaco"
+		},
+		"LocalizedNames": {
+			"EN": "Principality of Monaco"
+		},
+		"ShortNames": {
+			"EN": [
+				"Monaco"
+			]
+		}
+	},
+	"MD": {
+		"OfficialNames": {
+			"RO": "Republica Moldova"
+		},
+		"LocalizedNames": {
+			"EN": "Republic of Moldova"
+		},
+		"ShortNames": {
+			"EN": [
+				"Moldavia",
+				"Moldova"
+			]
+		}
+	},
+	"ME": {
+		"OfficialNames": {
+			"SR": "Црна Гора"
+		},
+		"LocalizedNames": {
+			"EN": "Montenegro"
+		},
+		"ShortNames": {}
+	},
+	"MG": {
+		"OfficialNames": {
+			"FR": "République de Madagascar",
+			"MG": "Repoblikan’i Madagasikara"
+		},
+		"LocalizedNames": {
+			"EN": "Republic of Madagascar"
+		},
+		"ShortNames": {
+			"EN": [
+				"Madagascar"
+			]
+		}
+	},
+	"MH": {
+		"OfficialNames": {
+			"EN": "Republic of the Marshall Islands",
+			"MH": "Aolepān Aorōkin M̧ajeļ"
+		},
+		"LocalizedNames": {},
+		"ShortNames": {
+			"EN": [
+				"Marshall Islands"
+			]
+		}
+	},
+	"MK": {
+		"OfficialNames": {
+			"MK": "Република Македониjа"
+		},
+		"LocalizedNames": {
+			"EN": "Republic of Macedonia"
+		},
+		"ShortNames": {
+			"EN": [
+				"Macedonia"
+			]
+		}
+	},
+	"ML": {
+		"OfficialNames": {
+			"FR": "République du Mali"
+		},
+		"LocalizedNames": {
+			"EN": "Republic of Mali"
+		},
+		"ShortNames": {
+			"EN": [
+				"Mali"
+			]
+		}
+	},
+	"MM": {
+		"OfficialNames": {
+			"MY": "ပြည်ထောင်စု သမ္မတ မြန်မာနိုင်ငံတော်‌"
+		},
+		"LocalizedNames": {
+			"EN": "Union of Myanmar"
+		},
+		"ShortNames": {
+			"EN": [
+				"Burma",
+				"Myanmar"
+			]
+		}
+	},
+	"MN": {
+		"OfficialNames": {
+			"MN": "Монгол улс"
+		},
+		"LocalizedNames": {
+			"EN": "Mongolia"
+		},
+		"ShortNames": {}
+	},
+	"MR": {
+		"OfficialNames": {
+			"AR": "الجمهورية الإسلامية الموريتانية"
+		},
+		"LocalizedNames": {
+			"EN": "Islamic Republic of Mauritania"
+		},
+		"ShortNames": {
+			"EN": [
+				"Mauretania",
+				"Mauritania"
+			]
+		}
+	},
+	"MT": {
+		"OfficialNames": {
+			"EN": "Republic of Malta",
+			"MT": "Repubblika ta’ Malta"
+		},
+		"LocalizedNames": {},
+		"ShortNames": {
+			"EN": [
+				"Malta"
+			]
+		}
+	},
+	"MU": {
+		"OfficialNames": {
+			"EN": "Republic of Mauritius"
+		},
+		"LocalizedNames": {},
+		"ShortNames": {
+			"EN": [
+				"Mauritius"
+			]
+		}
+	},
+	"MV": {
+		"OfficialNames": {
+			"DV": "ދިވެހިރާއްޖޭގެ ޖުމްހޫރިއްޔާ"
+		},
+		"LocalizedNames": {
+			"EN": "Republic of Maldives"
+		},
+		"ShortNames": {
+			"EN": [
+				"Maldives",
+				"The Maldives"
+			]
+		}
+	},
+	"MW": {
+		"OfficialNames": {
+			"EN": "Republic of Malawi",
+			"NY": "Dziko la Malaŵi"
+		},
+		"LocalizedNames": {},
+		"ShortNames": {
+			"EN": [
+				"Malawi"
+			]
+		}
+	},
+	"MX": {
+		"OfficialNames": {
+			"ES": "Estados Unidos Mexicanos"
+		},
+		"LocalizedNames": {
+			"EN": "United Mexican States"
+		},
+		"ShortNames": {
+			"EN": [
+				"Mexico"
+			]
+		}
+	},
+	"MY": {
+		"OfficialNames": {
+			"MS": "Malaysia"
+		},
+		"LocalizedNames": {
+			"EN": "Malaysia"
+		},
+		"ShortNames": {}
+	},
+	"MZ": {
+		"OfficialNames": {
+			"PT": "República de Moçambique"
+		},
+		"LocalizedNames": {
+			"EN": "Republic of Mozambique"
+		},
+		"ShortNames": {
+			"EN": [
+				"Mozambique"
+			]
+		}
+	},
+	"NA": {
+		"OfficialNames": {
+			"EN": "Republic of Namibia"
+		},
+		"LocalizedNames": {},
+		"ShortNames": {
+			"EN": [
+				"Namibia"
+			]
+		}
+	},
+	"NE": {
+		"OfficialNames": {
+			"FR": "République du Niger"
+		},
+		"LocalizedNames": {
+			"EN": "Republic of the Niger"
+		},
+		"ShortNames": {
+			"EN": [
+				"Niger"
+			]
+		}
+	},
+	"NG": {
+		"OfficialNames": {
+			"EN": "Federal Republic of Nigeria"
+		},
+		"LocalizedNames": {},
+		"ShortNames": {
+			"EN": [
+				"Nigeria"
+			]
+		}
+	},
+	"NI": {
+		"OfficialNames": {
+			"ES": "República de Nicaragua"
+		},
+		"LocalizedNames": {
+			"EN": "Republic of Nicaragua"
+		},
+		"ShortNames": {
+			"EN": [
+				"Nicaragua"
+			]
+		}
+	},
+	"NL": {
+		"OfficialNames": {
+			"NL": "Koninkrijk der Nederlanden"
+		},
+		"LocalizedNames": {
+			"EN": "Kingdom of the Netherlands"
+		},
+		"ShortNames": {
+			"EN": [
+				"Netherlands",
+				"The Netherlands"
+			]
+		}
+	},
+	"NO": {
+		"OfficialNames": {
+			"NB": "Kongeriket Norge",
+			"NN": "Kongeriket Noreg"
+		},
+		"LocalizedNames": {
+			"EN": "Kingdom of Norway"
+		},
+		"ShortNames": {
+			"EN": [
+				"Norway"
+			]
+		}
+	},
+	"NP": {
+		"OfficialNames": {
+			"NE": "संघीय लोकतान्त्रिक गणतरि नेपाल"
+		},
+		"LocalizedNames": {
+			"EN": "Federal Democratic Republic of Nepal"
+		},
+		"ShortNames": {
+			"EN": [
+				"Nepal"
+			]
+		}
+	},
+	"NR": {
+		"OfficialNames": {
+			"EN": "Republic of Nauru",
+			"NA": "Repubrikin Naoero"
+		},
+		"LocalizedNames": {},
+		"ShortNames": {
+			"EN": [
+				"Nauru"
+			]
+		}
+	},
+	"NZ": {
+		"OfficialNames": {
+			"NE": "New Zealand",
+			"MI": "Aotearoa"
+		},
+		"LocalizedNames": {
+			"EN": "New Zealand"
+		},
+		"ShortNames": {
+			"EN": []
+		}
+	},
+	"OM": {
+		"OfficialNames": {
+			"AR": "سلطنة عُمان"
+		},
+		"LocalizedNames": {
+			"EN": "Sultanate of Oman"
+		},
+		"ShortNames": {
+			"EN": [
+				"Oman"
+			]
+		}
+	},
+	"PA": {
+		"OfficialNames": {
+			"ES": "República de Panamá"
+		},
+		"LocalizedNames": {
+			"EN": "Republic of Panama"
+		},
+		"ShortNames": {
+			"EN": [
+				"Panama"
+			]
+		}
+	},
+	"PE": {
+		"OfficialNames": {
+			"AY": "Piruw Suyu",
+			"ES": "República del Perú",
+			"QU": "Piruw Republika"
+		},
+		"LocalizedNames": {
+			"EN": "Republic of Peru"
+		},
+		"ShortNames": {
+			"EN": [
+				"Peru"
+			]
+		}
+	},
+	"PG": {
+		"OfficialNames": {
+			"EN": "Independent State of Papua New Guinea",
+			"HO": "Papua Niu Gini",
+			"TPI": "Independen Stet bilong Papua Niugini"
+		},
+		"LocalizedNames": {
+			"EN": "Papua New Guinea"
+		},
+		"ShortNames": {}
+	},
+	"PH": {
+		"OfficialNames": {
+			"EN": "Republic of the Philippines",
+			"TL": "Republika ng Pilipinas"
+		},
+		"LocalizedNames": {},
+		"ShortNames": {
+			"EN": [
+				"Philippines",
+				"The Philippines"
+			]
+		}
+	},
+	"PK": {
+		"OfficialNames": {
+			"UR": "اسلامی جمہوریہ پاكستان"
+		},
+		"LocalizedNames": {
+			"EN": "Islamic Republic of Pakistan"
+		},
+		"ShortNames": {
+			"EN": [
+				"Pakistan"
+			]
+		}
+	},
+	"PL": {
+		"OfficialNames": {
+			"PL": "Rzeczpospolita Polska"
+		},
+		"LocalizedNames": {
+			"EN": "Republic of Poland"
+		},
+		"ShortNames": {
+			"EN": [
+				"Poland"
+			]
+		}
+	},
+	"PS": {
+		"OfficialNames": {
+			"AR": "دولة فلسطين"
+		},
+		"LocalizedNames": {
+			"EN": "State of Palestine"
+		},
+		"ShortNames": {
+			"EN": [
+				"Palestine"
+			]
+		}
+	},
+	"PT": {
+		"OfficialNames": {
+			"PT": "República Portuguesa"
+		},
+		"LocalizedNames": {
+			"EN": "Portuguese Republic"
+		},
+		"ShortNames": {
+			"EN": [
+				"Portugal"
+			]
+		}
+	},
+	"PW": {
+		"OfficialNames": {
+			"EN": "Republic of Palau",
+			"PAU": "Beluu er a Belau"
+		},
+		"LocalizedNames": {},
+		"ShortNames": {
+			"EN": [
+				"Palau"
+			]
+		}
+	},
+	"PY": {
+		"OfficialNames": {
+			"ES": "República del Paraguay",
+			"GN": "Paraguay Retãn"
+		},
+		"LocalizedNames": {
+			"EN": "Republic of Paraguay"
+		},
+		"ShortNames": {
+			"EN": [
+				"Paraguay"
+			]
+		}
+	},
+	"QA": {
+		"OfficialNames": {
+			"AR": "دولة قطر"
+		},
+		"LocalizedNames": {
+			"EN": "State of Qatar"
+		},
+		"ShortNames": {
+			"EN": [
+				"Qatar"
+			]
+		}
+	},
+	"RO": {
+		"OfficialNames": {
+			"RO": "România"
+		},
+		"LocalizedNames": {
+			"EN": "Romania"
+		},
+		"ShortNames": {
+			"EN": []
+		}
+	},
+	"RS": {
+		"OfficialNames": {
+			"SR": "Република Србија"
+		},
+		"LocalizedNames": {
+			"EN": "Republic of Serbia"
+		},
+		"ShortNames": {
+			"EN": [
+				"Serbia"
+			]
+		}
+	},
+	"RU": {
+		"OfficialNames": {
+			"RU": "Российская Федерация"
+		},
+		"LocalizedNames": {
+			"EN": "Russian Federation"
+		},
+		"ShortNames": {
+			"EN": [
+				"Russia"
+			]
+		}
+	},
+	"RW": {
+		"OfficialNames": {
+			"EN": "Republic of Rwanda",
+			"FR": "République du Rwanda",
+			"RW": "Republika y’u Rwanda"
+		},
+		"LocalizedNames": {},
+		"ShortNames": {
+			"EN": [
+				"Rwanda"
+			]
+		}
+	},
+	"SA": {
+		"OfficialNames": {
+			"AR": "المملكة العربية السعودية"
+		},
+		"LocalizedNames": {
+			"EN": "Kingdom of Saudi Arabia"
+		},
+		"ShortNames": {
+			"EN": [
+				"KSA",
+				"Saudi Arabia"
+			]
+		}
+	},
+	"SB": {
+		"OfficialNames": {
+			"EN": "Solomon Islands "
+		},
+		"LocalizedNames": {},
+		"ShortNames": {}
+	},
+	"SC": {
+		"OfficialNames": {
+			"CRS": "Repiblik Sesel",
+			"EN": "Republic of Seychelles",
+			"FR": "République des Seychelles"
+		},
+		"LocalizedNames": {},
+		"ShortNames": {
+			"EN": [
+				"Seychelles",
+				"The Seychelles"
+			]
+		}
+	},
+	"SD": {
+		"OfficialNames": {
+			"AR": "جمهورية السودان",
+			"EN": "Republic of the Sudan"
+		},
+		"LocalizedNames": {},
+		"ShortNames": {
+			"EN": [
+				"North Sudan",
+				"Sudan"
+			]
+		}
+	},
+	"SE": {
+		"OfficialNames": {
+			"SV": "Konungariket Sverige"
+		},
+		"LocalizedNames": {
+			"EN": "Kingdom of Sweden"
+		},
+		"ShortNames": {
+			"EN": [
+				"Sweden"
+			]
+		}
+	},
+	"SG": {
+		"OfficialNames": {
+			"EN": "Republic of Singapore",
+			"MS": "Republik Singapura",
+			"TA": "சிங்கப்பூர் குடியரச",
+			"ZH": "新加坡共和国"
+		},
+		"LocalizedNames": {},
+		"ShortNames": {
+			"EN": [
+				"Singapore"
+			]
+		}
+	},
+	"SI": {
+		"OfficialNames": {
+			"SL": "Republika Slovenija"
+		},
+		"LocalizedNames": {
+			"EN": "Republic of Slovenia"
+		},
+		"ShortNames": {
+			"EN": [
+				"Slovenia"
+			]
+		}
+	},
+	"SK": {
+		"OfficialNames": {
+			"SK": "Slovenská republika"
+		},
+		"LocalizedNames": {
+			"EN": "Slovak Republic"
+		},
+		"ShortNames": {
+			"EN": [
+				"Slovakia"
+			]
+		}
+	},
+	"SL": {
+		"OfficialNames": {
+			"EN": "Republic of Sierra Leone"
+		},
+		"LocalizedNames": {},
+		"ShortNames": {
+			"EN": [
+				"Sierra Leone"
+			]
+		}
+	},
+	"SM": {
+		"OfficialNames": {
+			"IT": "Repubblica di San Marino"
+		},
+		"LocalizedNames": {
+			"EN": "Republic of San Marino"
+		},
+		"ShortNames": {
+			"EN": [
+				"San Marino"
+			]
+		}
+	},
+	"SN": {
+		"OfficialNames": {
+			"FR": "République du Sénégal"
+		},
+		"LocalizedNames": {
+			"EN": "Republic of Senegal"
+		},
+		"ShortNames": {
+			"EN": [
+				"Senegal"
+			]
+		}
+	},
+	"SO": {
+		"OfficialNames": {
+			"AR": "جمهورية الصومال الفيدرالية",
+			"SO": "Jamhuuriyadda Federaalka Soomaaliya"
+		},
+		"LocalizedNames": {
+			"EN": "Somali Republic"
+		},
+		"ShortNames": {
+			"EN": [
+				"Somalia"
+			]
+		}
+	},
+	"SR": {
+		"OfficialNames": {
+			"NL": "Republiek Suriname"
+		},
+		"LocalizedNames": {
+			"EN": "Republic of Suriname"
+		},
+		"ShortNames": {
+			"EN": [
+				"Suriname"
+			]
+		}
+	},
+	"SS": {
+		"OfficialNames": {
+			"EN": "Republic of South Sudan"
+		},
+		"LocalizedNames": {},
+		"ShortNames": {
+			"EN": [
+				"South Sudan"
+			]
+		}
+	},
+	"ST": {
+		"OfficialNames": {
+			"PT": "República Democrática de São Tomé e Príncipe"
+		},
+		"LocalizedNames": {
+			"EN": "Democratic Republic of Sao Tome and Principe"
+		},
+		"ShortNames": {
+			"EN": [
+				"Sao Tome and Principe"
+			]
+		}
+	},
+	"SV": {
+		"OfficialNames": {
+			"ES": "República de El Salvador"
+		},
+		"LocalizedNames": {
+			"EN": "Republic of El Salvador"
+		},
+		"ShortNames": {
+			"EN": [
+				"El Salvador"
+			]
+		}
+	},
+	"SY": {
+		"OfficialNames": {
+			"AR": "الجمهورية العربية السورية"
+		},
+		"LocalizedNames": {
+			"EN": "Syrian Arab Republic"
+		},
+		"ShortNames": {
+			"EN": [
+				"Syria"
+			]
+		}
+	},
+	"SZ": {
+		"OfficialNames": {
+			"EN": "Kingdom of Swaziland",
+			"SS": "Umbuso weSwatini"
+		},
+		"LocalizedNames": {},
+		"ShortNames": {
+			"EN": [
+				"Swaziland"
+			]
+		}
+	},
+	"TD": {
+		"OfficialNames": {
+			"AR": "جمهورية تشاد",
+			"FR": "République du Tchad"
+		},
+		"LocalizedNames": {
+			"EN": "Republic of Chad"
+		},
+		"ShortNames": {
+			"EN": [
+				"Chad"
+			]
+		}
+	},
+	"TG": {
+		"OfficialNames": {
+			"FR": "République togolaise"
+		},
+		"LocalizedNames": {
+			"EN": "Togolese Republic"
+		},
+		"ShortNames": {
+			"EN": [
+				"Togo"
+			]
+		}
+	},
+	"TH": {
+		"OfficialNames": {
+			"TH": "ราชอาณาจักรไทย"
+		},
+		"LocalizedNames": {
+			"EN": "Kingdom of Thailand"
+		},
+		"ShortNames": {
+			"EN": [
+				"Thailand"
+			]
+		}
+	},
+	"TJ": {
+		"OfficialNames": {
+			"TG": "Ҷумҳурии Тоҷикистон"
+		},
+		"LocalizedNames": {
+			"EN": "Republic of Tajikistan"
+		},
+		"ShortNames": {
+			"EN": [
+				"Tadjikistan",
+				"Tadzhikistan",
+				"Tajikistan"
+			]
+		}
+	},
+	"TL": {
+		"OfficialNames": {
+			"PT": "República Democrática de Timor‐Leste",
+			"TET": "Repúblika Demokrátika Timór‐Leste"
+		},
+		"LocalizedNames": {
+			"EN": "Democratic Republic of Timor‐Leste"
+		},
+		"ShortNames": {
+			"EN": [
+				"East Timor",
+				"Timor-Leste"
+			]
+		}
+	},
+	"TM": {
+		"OfficialNames": {
+			"TK": "Türkmenistan"
+		},
+		"LocalizedNames": {
+			"EN": "Turkmenistan"
+		},
+		"ShortNames": {}
+	},
+	"TN": {
+		"OfficialNames": {
+			"AR": "الجمهورية التونسية"
+		},
+		"LocalizedNames": {
+			"EN": "Republic of Tunisia"
+		},
+		"ShortNames": {
+			"EN": [
+				"Tunisia"
+			]
+		}
+	},
+	"TO": {
+		"OfficialNames": {
+			"EN": "Kingdom of Tonga",
+			"TO": "Puleʻanga Fakatuʻi ʻo Tonga"
+		},
+		"LocalizedNames": {},
+		"ShortNames": {
+			"EN": [
+				"Tonga"
+			]
+		}
+	},
+	"TR": {
+		"OfficialNames": {
+			"TR": "Türkiye Cumhuriyeti"
+		},
+		"LocalizedNames": {
+			"EN": "Republic of Turkey"
+		},
+		"ShortNames": {
+			"EN": [
+				"Turkey"
+			]
+		}
+	},
+	"TT": {
+		"OfficialNames": {
+			"EN": "Republic of Trinidad and Tobago"
+		},
+		"LocalizedNames": {},
+		"ShortNames": {
+			"EN": [
+				"Trinidad and Tobago"
+			]
+		}
+	},
+	"TV": {
+		"OfficialNames": {
+			"EN": "Tuvalu",
+			"TVL": "Tuvalu"
+		},
+		"LocalizedNames": {},
+		"ShortNames": {}
+	},
+	"TW": {
+		"OfficialNames": {
+			"ZH": "中華民國"
+		},
+		"LocalizedNames": {
+			"EN": "Republic of China"
+		},
+		"ShortNames": {
+			"EN": [
+				"ROC",
+				"Taiwan"
+			]
+		}
+	},
+	"TZ": {
+		"OfficialNames": {
+			"EN": "United Republic of Tanzania",
+			"SW": "Jamhuri ya Muungano wa Tanzania"
+		},
+		"LocalizedNames": {},
+		"ShortNames": {
+			"EN": [
+				"Tanzania"
+			]
+		}
+	},
+	"UA": {
+		"OfficialNames": {
+			"UK": "Украïна"
+		},
+		"LocalizedNames": {
+			"EN": "Ukraine"
+		},
+		"ShortNames": {
+			"EN": [
+				"The Ukraine"
+			]
+		}
+	},
+	"UG": {
+		"OfficialNames": {
+			"EN": "Republic of Uganda"
+		},
+		"LocalizedNames": {},
+		"ShortNames": {
+			"EN": [
+				"Uganda"
+			]
+		}
+	},
+	"US": {
+		"OfficialNames": {
+			"EN": "United States of America"
+		},
+		"LocalizedNames": {},
+		"ShortNames": {
+			"EN": [
+				"America",
+				"USA",
+				"United States"
+			]
+		}
+	},
+	"UY": {
+		"OfficialNames": {
+			"ES": "República Oriental del Uruguay"
+		},
+		"LocalizedNames": {
+			"EN": "Eastern Republic of Uruguay"
+		},
+		"ShortNames": {
+			"EN": [
+				"Uruguay"
+			]
+		}
+	},
+	"UZ": {
+		"OfficialNames": {
+			"UZ": "O‘zbekiston Respublikasi"
+		},
+		"LocalizedNames": {
+			"EN": "Republic of Uzbekistan"
+		},
+		"ShortNames": {
+			"EN": [
+				"Uzbekistan"
+			]
+		}
+	},
+	"VA": {
+		"OfficialNames": {
+			"IT": "Santa Sede",
+			"LA": "Sancta Sedes"
+		},
+		"LocalizedNames": {
+			"EN": "Holy See"
+		},
+		"ShortNames": {
+			"EN": [
+				"Vatican"
+			]
+		}
+	},
+	"VC": {
+		"OfficialNames": {
+			"EN": "Saint Vincent and the Grenadines"
+		},
+		"LocalizedNames": {},
+		"ShortNames": {}
+	},
+	"VE": {
+		"OfficialNames": {
+			"ES": "República Bolivariana de Venezuela"
+		},
+		"LocalizedNames": {
+			"EN": "Bolivarian Republic of Venezuela"
+		},
+		"ShortNames": {
+			"EN": [
+				"Venezuela"
+			]
+		}
+	},
+	"VN": {
+		"OfficialNames": {
+			"VI": "Cộng hòa xã hội chủ nghĩa Việt Nam"
+		},
+		"LocalizedNames": {
+			"EN": "Socialist Republic of Vietnam"
+		},
+		"ShortNames": {
+			"EN": [
+				"Viet Nam",
+				"Vietnam"
+			]
+		}
+	},
+	"VU": {
+		"OfficialNames": {
+			"BI": "Ripablik blong Vanuatu",
+			"EN": "Republic of Vanuatu",
+			"FR": "République de Vanuatu"
+		},
+		"LocalizedNames": {},
+		"ShortNames": {
+			"EN": [
+				"Vanuatu"
+			]
+		}
+	},
+	"WS": {
+		"OfficialNames": {
+			"EN": "Independent State of Samoa",
+			"SM": "Malo Sa‘oloto Tuto‘atasi o Samoa"
+		},
+		"LocalizedNames": {},
+		"ShortNames": {
+			"EN": [
+				"Samoa"
+			]
+		}
+	},
+	"XK": {
+		"OfficialNames": {
+			"SQ": "Republika e Kosovës",
+			"SR": "Република Косово"
+		},
+		"LocalizedNames": {
+			"EN": "Republic of Kosovo"
+		},
+		"ShortNames": {
+			"EN": [
+				"Kosovo"
+			]
+		}
+	},
+	"YE": {
+		"OfficialNames": {
+			"AR": "الجمهورية اليمنية"
+		},
+		"LocalizedNames": {
+			"EN": "Republic of Yemen"
+		},
+		"ShortNames": {
+			"EN": [
+				"Yemen"
+			]
+		}
+	},
+	"ZA": {
+		"OfficialNames": {
+			"AF": "Republiek van Suid-Afrika ",
+			"EN": "Republic of South Africa",
+			"NR": "iRiphabliki yeSewula Afrika",
+			"NSO": "Rephaboliki ya Afrika-Borwa",
+			"ST": "Rephaboliki ya Afrika Borwa",
+			"SS": "iRiphabhulikhi yeNingizimu Afrika",
+			"TN": "Rephaboliki ya Aforika Borwa",
+			"TS": "Riphabliki ra Afrika Dzonga",
+			"VE": "Riphabu iki ya furika Tshipembe",
+			"XH": "iRiphabliki yaseMzantsi Afrika",
+			"ZU": "iRiphabliki yaseNingizimu Afrika"
+		},
+		"LocalizedNames": {},
+		"ShortNames": {
+			"EN": [
+				"South Africa"
+			]
+		}
+	},
+	"ZM": {
+		"OfficialNames": {
+			"EN": "Republic of Zambia"
+		},
+		"LocalizedNames": {},
+		"ShortNames": {
+			"EN": [
+				"Zambia"
+			]
+		}
+	},
+	"ZW": {
+		"OfficialNames": {
+			"EN": "Republic of Zimbabwe"
+		},
+		"LocalizedNames": {},
+		"ShortNames": {
+			"EN": [
+				"Zimbabwe"
+			]
+		}
+	}
+}

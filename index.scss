@@ -1,0 +1,271 @@
+body {
+	margin: unset;
+}
+button,
+input,
+kbd {
+	font: unset;
+}
+button,
+input {
+	border: unset;
+	text-align: unset;
+	background: unset;
+}
+:focus {
+	outline: unset;
+}
+
+$color-primary: #3498DB;
+$color-dark: #324755;
+$color-light: #EFF4FC;
+$color-secondary: #E74C3C;
+$timing: 0.4s;
+
+html {
+	height: 100%;
+	width: 100%;
+	overflow: hidden;
+	font: 1em/1 "Open Sans", "Arial", sans-serif;
+	color: white;
+	background-color: $color-dark;
+}
+
+.game-root {
+	display: flex;
+	flex-direction: column;
+	height: 100%;
+	width: 100%;
+}
+.game-instruction {
+	box-sizing: border-box;
+	display: flex;
+	flex: 0 0 3rem;
+	padding: 0.5rem 2rem;
+	justify-content: center;
+	font-size: 0.8rem;
+	line-height: 1rem;
+	opacity: 1;
+	transition-property: all;
+	transition-duration: $timing;
+	animation-name: fade-out;
+	animation-delay: 4s;
+	animation-duration: 1s;
+	animation-fill-mode: forwards;
+	kbd {
+		display: inline-block;
+		padding: {
+			right: 0.5em;
+			left: 0.5em;
+		}
+		border-radius: 4px;
+		text-transform: uppercase;
+		color: $color-dark;
+		background-color: $color-light;
+	}
+	.game-instruction-action {
+		display: flex;
+		margin-right: 2rem;
+		flex-direction: column;
+		align-items: center;
+		&:last-child {
+			margin-right: unset;
+		}
+	}
+	.game-instruction-key {
+		margin-bottom: 0.2rem;
+	}
+	@keyframes fade-out {
+		from {
+			opacity: 1;
+		}
+		to {
+			opacity: 0.2;
+		}
+	}
+}
+.game-progress {
+	display: flex;
+	flex: 0 0 3rem;
+	box-shadow: 0 10px 40px 0 rgba(0, 0, 0, 0.4);
+	.game-correct,
+	.game-skipped,
+	.game-unanswered {
+		height: 3rem;
+		position: relative;
+		transition-property: all;
+		transition-duration: $timing;
+		span {
+			display: inline-block;
+			position: absolute;
+			right: 0.5rem;
+			line-height: 3rem;
+			&.zero {
+				display: none;
+			}
+		}
+	}
+	.game-correct {
+		flex: 0 0 auto;
+		z-index: 300;
+		color: white;
+		background-color: $color-primary;
+	}
+	.game-skipped {
+		flex: 0 0 auto;
+		z-index: 200;
+		color: white;
+		background-color: $color-secondary;
+	}
+	.game-unanswered {
+		flex: 1 1 auto;
+		z-index: 100;
+		color: $color-dark;
+		background-color: $color-light;
+	}
+}
+
+.card-container {
+	display: flex;
+	flex: 1 1 auto;
+	align-items: center;
+	overflow: hidden;
+	&::before {
+		content: "";
+		display: block;
+		flex: 0 0 36rem;
+		max-width: 80vw;
+		margin-right: 12rem;
+	}
+	&::after {
+		content: "";
+		display: block;
+		flex: 0 0 36rem;
+		max-width: 80vw;
+	}
+}
+.card-root {
+	flex: 0 0 36rem;
+	max-width: 80vw;
+	margin-right: 12rem;
+	text-align: center;
+	color: $color-dark;
+	background-color: $color-light;
+	opacity: 0.6;
+	box-shadow: 0 10px 40px 0 rgba(0, 0, 0, 0.4);
+	transform: perspective(1000px) translateZ(-200px);
+	transition-property: all;
+	transition-duration: $timing;
+	pointer-events: none;
+	.card-flag-image {
+		display: block;
+		width: 100%;
+	}
+	.card-text {
+		display: flex;
+		padding: 1rem 2rem;
+		flex-direction: column;
+		align-items: center;
+		color: white;
+		opacity: 1;
+		.card-text-official {
+			position: relative;
+			font-weight: bold;
+			font-size: 1.5rem;
+			line-height: 2rem;
+			&::before {
+				content: attr(lang);
+				display: inline-block;
+				padding: {
+					right: 0.5em;
+					left: 0.5em;
+				}
+				border-radius: 4px;
+				margin-right: 1em;
+				position: absolute;
+				top: 0.5rem;
+				right: 100%;
+				font-size: 0.8rem;
+				line-height: 1.4;
+				white-space: nowrap;
+				text-transform: uppercase;
+				color: white;
+				background-color: rgba(0, 0, 0, 0.6);
+				opacity: 0.2;
+				transition-property: all;
+				transition-duration: $timing;
+			}
+			&:focus,
+			&:hover {
+				&::before {
+					opacity: 1;
+				}
+			}
+		}
+		.card-text-localized {
+			margin-top: 1rem;
+		}
+		&.hidden {
+			opacity: 0;
+		}
+	}
+	.card-control-answer {
+		width: 100%;
+		padding: {
+			top: 1rem;
+			bottom: 1rem;
+		}
+		font-size: 2rem;
+		background: white;
+		&[disabled] {
+			opacity: 0.4;
+		}
+	}
+	.card-control-tray {
+		padding: 1rem 2rem;
+		button {
+			padding: {
+				right: 1rem;
+				left: 1rem;
+			}
+			border-radius: 4px;
+			font-size: 0.8em;
+			line-height: 2rem;
+			font-weight: bold;
+			text-transform: uppercase;
+			color: white;
+			background-color: $color-primary;
+			cursor: pointer;
+			transition-property: all;
+			transition-duration: $timing;
+			&[disabled] {
+				opacity: 0.4;
+			}
+		}
+	}	
+	&.active {
+		opacity: 1;
+		transform: perspective(1000px);
+		pointer-events: all;
+	}
+	&.correct {
+		color: white;
+		background-color: $color-primary;
+		.card-control-tray {
+			button {
+				color: $color-primary;
+				background-color: white;
+			}
+		}
+	}
+	&.skipped {
+		color: white;
+		background-color: $color-secondary;
+		.card-control-tray {
+			button {
+				color: $color-secondary;
+				background-color: white;
+			}
+		}
+	}
+}

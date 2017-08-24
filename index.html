@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en-US">
+	<head>
+		<meta charset="utf-8" />
+		<title>Learn You a Flag for Great Pedantry</title>
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="icon" href="./icon.svg" type="image/svg+xml" sizes="any" />
+		<link rel="icon" href="./icon.png" type="image/png" sizes="256x256" />
+		<link rel="stylesheet" href="./index.css" type="text/css" media="screen" />
+		<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:400,700" type="text/css" media="screen" />
+		<script src="./index.js" type="application/javascript"></script>
+	</head>
+	<body class="game-root">
+		<div class="game-instruction">
+			<div class="game-instruction-action">
+				<div class="game-instruction-key"><kbd>Shift</kbd> + <kbd>Tab</kbd></div>
+				<div class="game-instruction-effect">&larr; &larr;</div>
+			</div>
+			<div class="game-instruction-action">
+				<div class="game-instruction-key"><kbd>&larr;</kbd></div>
+				<div class="game-instruction-effect">&larr;</div>
+			</div>
+			<div class="game-instruction-action">
+				<div class="game-instruction-key"><kbd>Esc</kbd></div>
+				<div class="game-instruction-effect">Skip</div>
+			</div>
+			<div class="game-instruction-action">
+				<div class="game-instruction-key"><kbd>&rarr;</kbd></div>
+				<div class="game-instruction-effect">&rarr;</div>
+			</div>
+			<div class="game-instruction-action">
+				<div class="game-instruction-key"><kbd>Tab</kbd></div>
+				<div class="game-instruction-effect">&rarr; &rarr;</div>
+			</div>
+		</div>
+		<div class="card-container">
+			<template id="card-template">
+				<div class="card-root">
+					<div class="card-flag">
+						<img class="card-flag-image" />
+					</div>
+					<div class="card-text"></div>
+					<div class="card-control">
+						<input type="text" class="card-control-answer" />
+						<div class="card-control-tray">
+							<button class="card-control-prev">&larr;</button>
+							<button class="card-control-skip">Skip</button>
+							<button class="card-control-next">&rarr;</button>
+						</div>
+					</div>
+				</div>
+			</template>
+		</div>
+		<div class="game-progress">
+			<div class="game-correct"><span>0</span></div>
+			<div class="game-skipped"><span>0</span></div>
+			<div class="game-unanswered"><span>0</span></div>
+		</div>
+	</body>
+</html>
