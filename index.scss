@@ -39,12 +39,12 @@ html {
 }
 .game-progress {
 	display: flex;
-	flex: 0 0 3rem;
+	flex: 0 0 2rem;
 	box-shadow: 0 10px 40px 0 rgba(0, 0, 0, 0.4);
 	.game-correct,
 	.game-skipped,
 	.game-unanswered {
-		height: 3rem;
+		height: 2rem;
 		position: relative;
 		transition-property: all;
 		transition-duration: $timing;
@@ -52,10 +52,16 @@ html {
 			display: inline-block;
 			position: absolute;
 			right: 0.5rem;
-			line-height: 3rem;
+			line-height: 2rem;
 			&.zero {
 				display: none;
 			}
+			@media (min-width: 768px) {
+				line-height: 3rem;
+			}
+		}
+		@media (min-width: 768px) {
+			height: 3rem;
 		}
 	}
 	.game-correct {
@@ -76,6 +82,9 @@ html {
 		color: $color-dark;
 		background-color: $color-light;
 	}
+	@media (min-width: 768px) {
+		flex-basis: 3rem;
+	}
 }
 
 .card-container {
@@ -88,7 +97,6 @@ html {
 		display: block;
 		flex: 0 0 36rem;
 		height: calc(100vh - 10rem);
-		max-width: 80vw;
 		margin-right: 12rem;
 	}
 	&::after {
@@ -96,14 +104,16 @@ html {
 		display: block;
 		flex: 0 0 36rem;
 		height: calc(100vh - 10rem);
-		max-width: 80vw;
+	}
+	@media (min-width: 768px) {
+		padding-top: 3rem;
 	}
 }
 .card-root {
 	display: flex;
 	flex: 0 0 36rem;
-	max-height: calc(100vh - 10rem);
-	max-width: 80vw;
+	max-height: calc(100vh - 5rem);
+	max-width: calc(100vw - 2rem);
 	margin-right: 12rem;
 	flex-direction: column;
 	text-align: center;
@@ -248,5 +258,9 @@ html {
 				background-color: white;
 			}
 		}
+	}
+	@media (min-width: 768px) {
+		max-width: 80vw;
+		max-height: calc(100vh - 10rem);
 	}
 }
