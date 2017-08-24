@@ -92,7 +92,7 @@ document.addEventListener("DOMContentLoaded", evt => {
 				let card = template.content.cloneNode(true);
 				let root = card.querySelector(".card-root");
 				root.id = code;
-				card.querySelector(".card-flag-image").src = "./flags/" + code + ".svg";
+				card.querySelector(".card-flag-image").src = "./flags/" + code.toLowerCase() + ".svg";
 				let text = card.querySelector(".card-text");
 				text.classList.add("hidden");
 				let officialNames = country.OfficialNames;
