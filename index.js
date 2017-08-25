@@ -5,7 +5,7 @@ document.addEventListener("DOMContentLoaded", evt => {
 	let skipped = document.querySelector(".game-skipped");
 	let unanswered = document.querySelector(".game-unanswered");
 	let normalize = function (name) {
-		return name.toUpperCase().replace(/[\-\u2010]/, " ").replace(/[\'\.\u8216\u8217]/, "");
+		return name.toUpperCase().replace(/[\-\u2010]/, " ").replace(/(?:THE)|[\'\.\u8216\u8217]/, "").trim();
 	}
 	let updateTotals = function (dCorrect, dSkipped, dUnanswered) {
 		[
