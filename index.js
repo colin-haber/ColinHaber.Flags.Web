@@ -66,23 +66,23 @@ document.addEventListener("DOMContentLoaded", evt => {
 				requestAnimationFrame(scrollToActive);
 			}
 			game.setActiveCard = code => setActive(document.getElementById(code));
-			let prevActive = function (skip = false, loop = false) {
+			let prevActive = function (skip = false) {
 				let active = document.querySelector(".card-root.active");
-				let prev = loop && !active.previousElementSibling ? active.parentElement.lastElementChild : active.previousElementSibling;
+				let prev = !active.previousElementSibling ? active.parentElement.lastElementChild : active.previousElementSibling;
 				if (prev) {
 					setActive(prev);
 					if (skip && document.querySelector(".card-root:not(.correct):not(.skipped)") && (prev.classList.contains("correct") || prev.classList.contains("skipped"))) {
-						prevActive(skip, loop);
+						prevActive(skip);
 					}
 				}
 			}
-			let nextActive = function (skip = false, loop = false) {
+			let nextActive = function (skip = false) {
 				let active = document.querySelector(".card-root.active");
-				let next = loop && !active.nextElementSibling ? active.parentElement.firstElementChild : active.nextElementSibling;
+				let next = !active.nextElementSibling ? active.parentElement.firstElementChild : active.nextElementSibling;
 				if (next) {
 					setActive(next);
 					if (skip && document.querySelector(".card-root:not(.correct):not(.skipped)") && (next.classList.contains("correct") || next.classList.contains("skipped"))) {
-						nextActive(skip, loop);
+						nextActive(loop);
 					}
 				}
 			}
@@ -159,8 +159,6 @@ document.addEventListener("DOMContentLoaded", evt => {
 			});
 			updateTotals(0, 0, codes.length);
 			template.remove();
-			deck.firstElementChild.querySelector(".card-control-prev").remove();
-			deck.lastElementChild.querySelector(".card-control-next").remove();
 			setActive(document.querySelector(".card-container .card-root"));
 			window.addEventListener("resize", evt => {
 				requestAnimationFrame(scrollToActive);
