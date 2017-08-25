@@ -43,7 +43,7 @@ document.addEventListener("DOMContentLoaded", evt => {
 				if (Math.abs(delta) >= 10) {
 					deck.scrollLeft += delta / 10;
 				} else if (Math.abs(delta) >= 1) {
-					deck.scrollLeft += delta;
+					deck.scrollLeft += Math.sign(delta);
 				}
 				if (cardCenter > 0 && cardCenter < window.innerWidth) {
 					active.querySelector(".card-control-answer").focus();
