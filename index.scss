@@ -95,15 +95,15 @@ html {
 	&::before {
 		content: "";
 		display: block;
-		flex: 0 0 36rem;
-		height: calc(100vh - 10rem);
+		flex: 0 0 100vw;
+		height: 100vh;
 		margin-right: 12rem;
 	}
 	&::after {
 		content: "";
 		display: block;
-		flex: 0 0 36rem;
-		height: calc(100vh - 10rem);
+		flex: 0 0 100vw;
+		height: 100vh;
 	}
 	@media (min-width: 768px) {
 		padding-top: 3rem;
