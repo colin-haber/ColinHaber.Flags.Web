@@ -1,3 +1,4 @@
+game = {};
 document.addEventListener("DOMContentLoaded", evt => {
 	let deck = document.querySelector(".card-container");
 	let correct = document.querySelector(".game-correct");
@@ -64,6 +65,7 @@ document.addEventListener("DOMContentLoaded", evt => {
 				el.classList.add("active");
 				requestAnimationFrame(scrollToActive);
 			}
+			game.setActiveCard = code => setActive(document.getElementById(code));
 			let prevActive = function (skip = false, loop = false) {
 				let active = document.querySelector(".card-root.active");
 				let prev = loop && !active.previousElementSibling ? active.parentElement.lastElementChild : active.previousElementSibling;
