@@ -152,32 +152,6 @@ html {
 				font-weight: bold;
 				font-size: 0.8rem;
 				line-height: 1rem;
-				&::before {
-					content: attr(lang);
-					display: none;
-					padding: {
-						right: 0.5em;
-						left: 0.5em;
-					}
-					border-radius: 4px;
-					margin-right: 1em;
-					position: absolute;
-					right: 100%;
-					font-size: 0.8rem;
-					line-height: 1rem;
-					white-space: nowrap;
-					text-transform: uppercase;
-					color: white;
-					background-color: rgba(0, 0, 0, 0.6);
-					opacity: 0.2;
-					transition-property: all;
-					transition-duration: $timing;
-					@media (min-width: 768px) {
-						display: inline-block;
-						top: 0.5rem;
-						line-height: 1rem;
-					}
-				}
 				&:focus,
 				&:hover {
 					&::before {
