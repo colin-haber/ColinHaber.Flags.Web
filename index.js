@@ -95,6 +95,7 @@ document.addEventListener("DOMContentLoaded", evt => {
 				card.querySelector(".card-flag-image").src = "./flags/" + code.toLowerCase() + ".svg";
 				let text = card.querySelector(".card-text");
 				text.classList.add("hidden");
+				let names = card.querySelector(".card-text-names");
 				let officialNames = country.OfficialNames;
 				var localName = false;
 				Object.keys(officialNames).forEach(lang => {
@@ -105,7 +106,7 @@ document.addEventListener("DOMContentLoaded", evt => {
 					div.classList.add("card-text-official");
 					div.lang = lang.toLowerCase();
 					div.textContent = officialNames[lang];
-					text.appendChild(div);
+					names.appendChild(div);
 				});
 				let localizedNames = country.LocalizedNames;
 				if (!localName) {
