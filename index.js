@@ -66,25 +66,21 @@ document.addEventListener("DOMContentLoaded", evt => {
 			}
 			let prevActive = function (skip = false, loop = false) {
 				let active = document.querySelector(".card-root.active");
-				if (document.querySelector(".card-root:not(.correct):not(.skipped)")) {
-					let prev = loop && !active.previousElementSibling ? active.parentElement.lastElementChild : active.previousElementSibling;
-					if (prev) {
-						setActive(prev);
-						if (skip && (prev.classList.contains("correct") || prev.classList.contains("skipped"))) {
-							prevActive(skip, loop);
-						}
+				let prev = loop && !active.previousElementSibling ? active.parentElement.lastElementChild : active.previousElementSibling;
+				if (prev) {
+					setActive(prev);
+					if (skip && document.querySelector(".card-root:not(.correct):not(.skipped)") && (prev.classList.contains("correct") || prev.classList.contains("skipped"))) {
+						prevActive(skip, loop);
 					}
 				}
 			}
 			let nextActive = function (skip = false, loop = false) {
 				let active = document.querySelector(".card-root.active");
-				if (document.querySelector(".card-root:not(.correct):not(.skipped)")) {
-					let next = loop && !active.nextElementSibling ? active.parentElement.firstElementChild : active.nextElementSibling;
-					if (next) {
-						setActive(next);
-						if (skip && (next.classList.contains("correct") || next.classList.contains("skipped"))) {
-							nextActive(skip, loop);
-						}
+				let next = loop && !active.nextElementSibling ? active.parentElement.firstElementChild : active.nextElementSibling;
+				if (next) {
+					setActive(next);
+					if (skip && document.querySelector(".card-root:not(.correct):not(.skipped)") && (next.classList.contains("correct") || next.classList.contains("skipped"))) {
+						nextActive(skip, loop);
 					}
 				}
 			}
