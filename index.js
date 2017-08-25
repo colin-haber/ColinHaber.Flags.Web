@@ -82,7 +82,7 @@ document.addEventListener("DOMContentLoaded", evt => {
 				if (next) {
 					setActive(next);
 					if (skip && document.querySelector(".card-root:not(.correct):not(.skipped)") && (next.classList.contains("correct") || next.classList.contains("skipped"))) {
-						nextActive(loop);
+						nextActive(skip);
 					}
 				}
 			}
@@ -176,9 +176,9 @@ document.addEventListener("DOMContentLoaded", evt => {
 				} else if (evt.key === "Tab") {
 					evt.preventDefault();
 					if (evt.getModifierState("Shift")) {
-						prevActive(true, true);
+						prevActive(true);
 					} else {
-						nextActive(true, true);
+						nextActive(true);
 					}
 				} else if (evt.key === "ArrowRight") {
 					if (next) {
